@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 580" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path fill="#111" stroke="#eee" stroke-width="3.408" d="m66.275,1.768c-41.335,0-64.571,21.371-64.571,65.036v450.123c0,40.844 20.895,62.229 62.192,62.229h452.024c41.307,0 62.229-20.315 62.229-62.229v-450.123c0-42.601-20.922-65.036-63.521-65.036-.004,0-448.495-.143-448.353,0z"/>
+<path fill="#fff" stroke="#fff" stroke-linejoin="round" id="path6015" stroke-linecap="round" stroke-width="14" d="m430.216-99.7803c-.5775,.6431-20.9779-53.9426-36.998-120.1382-3.6518-15.0893-30.1497-92.8976 35.7046-92.8615 67.3887,.037 40.6841,78.7889 35.6682,96.6855-17.6784,63.0759-33.7974,115.6711-34.3749,116.3142z"/>
+<use width="580" height="580" xlink:href="#path6015" id="use6027" transform="matrix(.80779 -.46638 .46638 .80779 -36.48207 516.74249)"/>
+<use width="580" height="580" xlink:href="#use6027" id="use6029" transform="matrix(.5 -.86603 .86603 .5 -99.60851 395.17405)"/>
+<use width="580" height="580" xlink:href="#use6029" id="use6031" transform="matrix(.5 -.86603 .86603 .5 -100.02947 397.18544)"/>
+<use width="580" height="580" xlink:href="#use6031" id="use6033" transform="matrix(.5 -.86603 .86603 .5 -100.38597 396.46523)"/>
+<use width="580" height="580" xlink:href="#use6033" transform="matrix(.5 -.86603 .86603 .5 -102.40499 396.28914)"/>
+<use width="580" height="580" xlink:href="#path6015" transform="matrix(.86603 -.5 .5 .86603 456.89843 297.20022)"/>
+<use width="580" height="580" xlink:href="#path6015" transform="matrix(.80779 .46638 -.46638 .80779 -70.86872 113.90104)"/>
+</svg>

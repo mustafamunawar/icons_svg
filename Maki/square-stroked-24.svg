@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+<g color="#000" transform="translate(0 -1004.3622)">
+<path opacity=".3" fill="none" stroke="#fff" stroke-width="2" d="m5,3c-.554,0-1,.446-1,1v15c0,.554 .446,1 1,1h15c.554,0 1-.446 1-1v-15c0-.554-.446-1-1-1zm1,2 13,0 0,13-13,0z" transform="translate(0 1004.3622)"/>
+<path fill="#444" d="m5,3c-.554,0-1,.446-1,1v15c0,.554 .446,1 1,1h15c.554,0 1-.446 1-1v-15c0-.554-.446-1-1-1zm1,2 13,0 0,13-13,0z" transform="translate(0 1004.3622)"/>
+</g>
+<g transform="translate(72 -1098.3622)">
+<path opacity=".5" fill="none" color="#000" d="m-72,1098.36h24v24h-24z"/>
+</g>
+</svg>
